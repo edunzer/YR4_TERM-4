@@ -1,0 +1,30 @@
+## ASSIGNEMTN #1
+
+Question 13
+You are the project manager of a team of software specialists working on a project to produce a piece of application software in the field of project management. Give some examples of things that might go wrong on such a project and the sorts of trade-offs you might have to make.
+
+Handstar Case
+
+Handstar Inc was created a little over 4 years ago by two college roommates to develop apps for smartphones. It has since grown to ten employees with annual sales approaching $1.5 million. Handstar's original product was an expense report app that allowed users to record expenses on their smartphone and then export their expenses into a spreadsheet that then created an expense report in one of five standard formats. Based on the success of its first product, Handstar subsequently developed three additional apps: an app for tracking and measuring the performance of investment portfolios, a calendar app, and an email app.
+
+The two founders of Handstar have recently become concerned about the competitiveness of the firm's offerings, particularly since none of them has been updated since their initial launch. Therefore, they asked the directors of product development and marketing to work together and prepare a list of potential projects for updating Handstar's current offerings as well as to develop ideas for additional apps. The directors were also asked to estimate the development costs of the various projects, product revenues, and the likelihood that Handstar could retain or obtain a leadership position for the given app. Also, with the increasing popularity of mobile computing, the founders asked the directors to evaluate the extent to which the products made use of the Web.
+
+The product development and marketing directors identified three projects related to updating Handstar's existing products. There first project would integrate Handstar's current calendar app with its email app. Integrating these two apps into a single app would provide a number of benefits to users such as allowing them to automatically enter the dates of meetings into the calendar based on the content of an email message. The directors estimated that this project would require 1250 hours of software development time. Revenues in the first year of the product's launch were estimated to be $750,000. However, because the directors expected that a large percentage of the users would likely upgrade to this new product soon after its introduction, they projected that annual sales would decline by 10 percent annually in subsequent years. The directors speculated that Handstar was moderately likely to obtain a leadership position in email/calendar apps if this project were undertaken and felt this app made moderate use of the Web.
+
+The second project related to updating the expense report app. The directors estimated that this project would require 400 hours of development time. Sales were estimated to be $250,000 in the first year and to increase 5 percent annually in subsequent years. The directors speculated that completing this project would almost certainly maintain Handstar's leadership position in the expense report category, although it made little use of the Web.
+
+The last project enhancement project related to enhancing the existing portfolio tracking app. This project would require 750 hours of development time and would generate first-year sales of $500,000. Sales were projected to increase 5 percent annually in subsequent years. The directors felt this project would have a high probability of maintaining Handstar's leadership position in this category and the product would make moderate use of the Web.
+
+The directors also identified three opportunities for new products. One project was the development of a spreadsheet app that could share files with spreadsheet programs written for PCs. Developing this app would require 2500 hours of development time. First-year sales were estimated to be $1,000,000 with an annual growth rate of 10%. While this app did not make use of the Web, the directors felt that Handstar had a moderate chance of obtaining a leadership position in this product category.
+
+The second new product opportunity identified was an app for browsing the Web. Developing this app would require 1875 development hours. First-year sales was estimated to be $2,500,000 with an annual growth rate of 15%. Although this app made extensive use of the Web, the directors felt that there was a very low probability that Handstar could obtain a leadership position in this product category.
+
+The final product opportunity identified was a trip planner app. This product would require 6250 hours of development time. First-year sales were projected to be $1,300,000 with an annual growth rate of 5%. Like the Web browser app, the directors felt that there was a low probability that Handstar could obtain a leadership position in this category, although the program would make extensive use of the Web.
+
+In evaluating the projects, the founders believed it was reasonable to assume each product had a 3-year life. They also felt that a discount rate of 12% fairly reflected the company's cost of capital. An analysis of payroll records indicated that the cost of software developers is $52 per hour including salary and fringe benefits. Currently there are four software developers on staff, and each works 2500 hours per year.
+
+Q1-Which projects would you recommend Handstar pursue based on the NPV approach? (Note: Both new products and updates to existing products are considered projects in this case. Thus, there are 6 potential projects on the table)
+
+Q2-Assume the founders weigh a projects NPV twice as much as both obtaining/retaining a leadership position and making use of the web. Use the weighted factor scoring method to rank all 6 projects against each other. Which projects would you recommend Handstar pursue?
+
+Q3-In your opinion is having an additional software development engineer justified? Explain your logic.
