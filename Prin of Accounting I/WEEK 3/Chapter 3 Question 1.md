@@ -1,0 +1,5 @@
+## CHAPTER 3 QUESTION 1
+
+Assume that your organization paid for a three-year maintenance contract that covers four delivery trucks that it recently purchased. The trucks are used more during the summer months than during the winter months. One of the trucks is larger than and is used less often than the other three trucks. Describe what factors you would consider and what type of evaluation you would use in order to develop a basis for adjusting journal entries for truck maintenance costs at the end of each accounting period.
+
+- Since each truck is between the product and the eventual revenue of the product I would consider the delivering of said product to be revenue created by each truck. Taking this into account each truck should have a total revenue created amount and therefore be compared against its cost of operating. The operating cost would be 1/4th of the total operating cost in the maintenance contract. This would allow anyone to look at a individual truck and see the ratio at which its earning and its prepaid maintenance expenses. 
