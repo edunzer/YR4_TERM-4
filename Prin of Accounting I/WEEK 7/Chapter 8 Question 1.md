@@ -1,0 +1,5 @@
+## CHAPTER 8 QUESTION 1
+
+Cash is the asset most susceptible to improper diversion and use. Have you ever found yourself, either as a customer or as an employee, in a position to misappropriate cash? If so, describe the internal control weakness that created the situation. What control(s) would have addressed the problem?
+
+- As a previous employee to a growing company I was in a position to order anything with in reason that would help with my work. This was true with most of the other workers as well. If you wanted a better desk, keyboard, chair, etc. then all you did was put it on the order sheet and our manager would purchase it. Now presumably that manager would look over the list and reject things if it were not in the budget but instead in my situation it was just always purchased without consideration to if the purchase was necessary. This put me in a place where there was an internal control weakness but not really a misappropriation of cash since most items were effective to my work.  
